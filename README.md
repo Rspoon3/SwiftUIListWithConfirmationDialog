@@ -15,5 +15,9 @@ Demonstrates how a confirmation dialog does not work with items in a list on iPa
 The confirmation dialog randomly appears on any item.
 
 
+https://user-images.githubusercontent.com/42879920/141803609-a72696f0-1e2d-4e9f-ae21-f12155b6a960.MP4
+
+
+
 **Expected Results:**
 The confirmation dialog should appear right next to the swiped row.
